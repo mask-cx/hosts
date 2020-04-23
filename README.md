@@ -10,10 +10,10 @@
 
 跨平台用户端
 
-[![doodle]][doodle-story]
+[![doodle1]][doodle1-story]
 
-[doodle]: ./img/download.png "跨平台客户端!"
-[doodle-story]: https://mls.toh.info/
+[doodle1]: ./img/download.png "跨平台客户端!"
+[doodle1-story]: https://mls.toh.info/
 
 
 > 使用本项目前，请先阅读 
