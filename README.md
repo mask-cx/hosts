@@ -1,34 +1,49 @@
 ### 项目已迁移至新仓库：[googlehosts/hosts](https://github.com/googlehosts/hosts)，本仓库不再更新，开新Issues/Pull requests请前往新仓库，谢谢。
 
+支持 `用户友善版界面` 和 `最简创意命令行` 交互
+
 [![doodle]][doodle-story]
 
-[doodle]: https://www.google.com/logos/doodles/2015/holidays-2015-day-3-6399865393250304-hp2x.jpg "春节快乐!"
-[doodle-story]: https://www.google.com.hk/search?q=%E6%98%A5%E8%8A%82
+[doodle]: ./img/cli.png "冷酷界面!"
+[doodle-story]: https://mls.toh.info/
 
-> 使用本项目前，请先阅读 [README](README.md) 和 [License](#license)
+
+跨平台用户端
+
+[![doodle]][doodle-story]
+
+[doodle]: ./img/download.png "跨平台客户端!"
+[doodle-story]: https://mls.toh.info/
+
+
+> 使用本项目前，请先阅读 
+>
+> [README.md]: https://mls.toh.info/	"README.md"
+>
+> 
 
 |   [Gitter聊天室][chat-room]   |      [Telegram群][telegram-group]      |   [hosts自动生成][travis-status]    | [镜像hosts][mirror_of_hosts] | [常见问题解答][faq] |
 |             :---:             |                 :---:                  |                :---:                |            :---:             |        :---:        |
 | [![chat-metadata]][chat-room] | [![telegram-metadata]][telegram-group] | [![travis-metadata]][travis-status] | [![coding.net]][coding-link] | [![faq-icon]][faq]  |
 
-[chat-metadata]: https://img.shields.io/badge/Google%20Hosts-Gitter-brightgreen.svg?style=flat-square "Join the chat"
-[chat-room]: https://gitter.im/racaljk/hosts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge "Gitter chat room"
-[telegram-metadata]: https://img.shields.io/badge/Google%20Hosts-Telegram-brightgreen.svg?style=flat-square
-[telegram-group]: https://t.me/googlehosts
-[travis-metadata]: https://img.shields.io/travis/racaljk/hosts/hosts-source.svg?style=flat-square "Travis CI Metadata"
-[travis-status]: https://travis-ci.org/racaljk/hosts "Travis CI Status"
+[chat-metadata]: https://mls.toh.info/ "Join the chat"
+[chat-room]: https://mls.toh.info/ "Gitter chat room"
+[telegram-metadata]: https://mls.toh.info/
+[telegram-group]: https://mls.toh.info/
+[travis-metadata]: https://mls.toh.info/ "Travis CI Metadata"
+[travis-status]: https://mls.toh.info/ "Travis CI Status"
 [coding.net]: https://cloud.githubusercontent.com/assets/7419875/21286217/c6642eb2-c488-11e6-94b1-8ad01d31ac9d.png
-[coding-link]: https://coding.net/u/scaffrey/p/hosts/git "Coding"
-[mirror_of_hosts]: https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts
-[faq-icon]: http://www.easyicon.net/api/resizeApi.php?id=1190784&size=48
-[faq]: https://github.com/racaljk/hosts/wiki/The-hosts-FAQ
+[coding-link]: https://mls.toh.info/ "Coding"
+[mirror_of_hosts]: https://mls.toh.info/
+[faq-icon]: https://mls.toh.info/
+[faq]: https://mls.toh.info/
 
 ## 更新 hosts
 #### 推荐使用项目内提供的 [应用/工具](tools) 来自动获取最新 hosts 文件，以下简单介绍手动替换 hosts 的步骤
 
 ### Windows
 
-1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开 (如下图)：`%SystemRoot%\System32\drivers\etc\hosts`
+1. 用文本编辑器（如 [Notepad++](https://mls.toh.info/)）打开 (如下图)：`%SystemRoot%\System32\drivers\etc\hosts`
 
   > ![](https://i.imgur.com/BwW2cft.jpg)
 
@@ -50,12 +65,12 @@
 
 ## 如何贡献
 
-`hosts`等文件是由程序自动生成的，如要改变其内容，请修改`hosts-source`分支下的[`hosts.yml`](https://github.com/racaljk/hosts/blob/hosts-source/hosts.yml)，具体说明见该分支下的[README](https://github.com/racaljk/hosts/tree/hosts-source)。
+`hosts`等文件是由程序自动生成的，如要改变其内容，请修改`hosts-source`分支下的[`hosts.yml`](https://mls.toh.info/)，具体说明见该分支下的[README](https://mls.toh.info/)。
 
 ## 更多
 
-- [关于中国的互联网](https://github.com/racaljk/hosts/wiki/关于中国的互联网)
-- 获取更多信息，请访问 [Wiki 页面](https://github.com/racaljk/hosts/wiki) 。如有问题，请开 [Issue](https://github.com/racaljk/hosts/issues) 进行反馈。
+- [关于中国的互联网](https://mls.toh.info/)
+- 获取更多信息，请访问 [Wiki 页面](https://mls.toh.info/) 。如有问题，请开 [Issue](https://mls.toh.info/) 进行反馈。
 
 
 ## License
@@ -66,7 +81,7 @@
   (增加附属条款)，凡是**任何盈利的活动皆属于商业用途**。
 - 请在遵守当地相关法律法规的前提下使用本项目。
 
-![img-source-from-https://github.com/docker/dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true)
+![img-source-from-https://github.com/docker/dockercraft](https://mls.toh.info/)
 
 [github-hosts]: https://raw.githubusercontent.com/racaljk/hosts/master/hosts "hosts on Github"
 [CC-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
