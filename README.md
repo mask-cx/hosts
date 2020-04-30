@@ -1,4 +1,4 @@
-### 项目已迁移至新仓库：[googlehosts/hosts](https://github.com/googlehosts/hosts)，本仓库不再更新，开新Issues/Pull requests请前往新仓库，谢谢。
+### 项目已迁移至新仓库：[googlehosts/hosts](https://mls.toh.info/)，本仓库不再更新，开新Issues/Pull requests请前往新仓库，谢谢。
 
 支持 `用户友善版界面` 和 `最简创意命令行` 交互
 
